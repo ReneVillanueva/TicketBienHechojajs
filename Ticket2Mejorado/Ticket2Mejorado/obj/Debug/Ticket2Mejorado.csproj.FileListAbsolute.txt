@@ -1,8 +1,0 @@
-C:\Users\renev\Desktop\Ticket2Mejorado\Ticket2Mejorado\obj\Debug\Ticket2Mejorado.csproj.AssemblyReference.cache
-C:\Users\renev\Desktop\Ticket2Mejorado\Ticket2Mejorado\obj\Debug\Ticket2Mejorado.csproj.SuggestedBindingRedirects.cache
-C:\Users\renev\Desktop\Ticket2Mejorado\Ticket2Mejorado\obj\Debug\Ticket2Mejorado.csproj.CoreCompileInputs.cache
-C:\Users\renev\Desktop\Ticket2Mejorado\Ticket2Mejorado\bin\Debug\Ticket2Mejorado.exe.config
-C:\Users\renev\Desktop\Ticket2Mejorado\Ticket2Mejorado\bin\Debug\Ticket2Mejorado.exe
-C:\Users\renev\Desktop\Ticket2Mejorado\Ticket2Mejorado\bin\Debug\Ticket2Mejorado.pdb
-C:\Users\renev\Desktop\Ticket2Mejorado\Ticket2Mejorado\obj\Debug\Ticket2Mejorado.exe
-C:\Users\renev\Desktop\Ticket2Mejorado\Ticket2Mejorado\obj\Debug\Ticket2Mejorado.pdb
